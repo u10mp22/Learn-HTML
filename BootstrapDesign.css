@@ -2,12 +2,27 @@ body {
   background-image: linear-gradient(to left, cyan, red);   -webkit-background-clip: text;
   color: transparent;
 }
-div {
+.container {
   background-color: #f1ffb8
+}
+.container-fluid {
+  background-color: white
+}
+.col {
+  background-color: purple;
+  color: cyan
+}
+.col-2 {
+  background-color: greenyellow;
+  color: orange
+}
+.col-3{
+  background-color: yellow;
+  color: red
 }
 h1 {
   color: black
 }
 p {
-  color: 
+  color: purple
 }
