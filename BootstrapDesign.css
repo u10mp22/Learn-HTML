@@ -1,0 +1,13 @@
+body {
+  background-image: linear-gradient(to left, cyan, red);   -webkit-background-clip: text;
+  color: transparent;
+}
+div {
+  background-color: #f1ffb8
+}
+h1 {
+  color: black
+}
+p {
+  color: 
+}
