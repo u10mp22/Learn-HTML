@@ -1,9 +1,16 @@
 body {
-  background-image: linear-gradient(to left, cyan, red);   -webkit-background-clip: text;
+  background-image: linear-gradient(to left,red,blue,black,green,orange,purple,pink,white,white,white);   -webkit-background-clip: text;
   color: transparent;
 }
+
+.Table {
+  color: black
+}
+.table table-striped, table, th, td {
+  border: 1px solid black;
+}
 .container {
-  background-color: #f1ffb8
+  background-color: turquoise
 }
 .container-fluid {
   background-color: white
